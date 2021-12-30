@@ -1,4 +1,7 @@
 # nuclear
 Homepage for goodies for nuclear energy advocates.
 
-stuff coming soon
+
+[Nucear memes](/images/memes.md)
+
+more stuff with time
