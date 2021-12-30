@@ -11,8 +11,16 @@ And this widely avaialble powerful cheap "batteries" that make renewables reliab
 
 ## Nuclear, obvi
 
-![And this widely avaialble powerful cheap "batteries" that make renewables reliable, are they here, in the room with us right now?](nuclear-khaby-lame.jpg "Khaby Lame")
+![Nuclear Khaby Lame](nuclear-khaby-lame.jpg "Nuclear Khaby Lame")
 
 Khaby Lame suggesting that you do not need to make it more complecated then it is and the Nuclear is an obvisous solution.
 
 *Credit: photo Khaby Lame, adapted for nuclear by me.
+
+
+## Nuclear starring Will Smith
+![Nuclear Will Smith](nuclear-khaby-lame.jpg "Nuclear Will Smith")
+
+Same idea as with Khaby before but starring Will Smith
+
+*Credit: photo Will Smith, adapted for nuclear by me.
