@@ -19,7 +19,7 @@ Khaby Lame suggesting that you do not need to make it more complecated then it i
 
 
 ## Nuclear starring Will Smith
-![Nuclear Will Smith](nuclear-khaby-lame.jpg "Nuclear Will Smith")
+![Nuclear Will Smith](nuclear-will-smith.jpg "Nuclear Will Smith")
 
 Same idea as with Khaby before but starring Will Smith
 
