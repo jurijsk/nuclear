@@ -1,4 +1,4 @@
-# nuclear-staff
+# nuclear
 Homepage for goodies for nuclear energy advocates.
 
-Staff coming soon
+stuff coming soon
