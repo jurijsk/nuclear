@@ -23,17 +23,17 @@ Khaby Lame suggesting that you do not need to make it more complecated then it i
 
 Same idea as with Khaby before but starring Will Smith
 
-*Credit: photo Will Smith, adapted for nuclear by me.
+*Credit: photo Will Smith, adapted for nuclear by me*
 
 
 ## Nuclear bird
 ![Nuclear Bird](nuclear-bird.jpg "Nuclear Bird")
 ![Nuclear is the Answer Bird](nuclear-answer-bird.jpg "Nuclear is the Answer Bird")
 
-*Credit: rando bird from the web, adapted for nuclear by me.
+*Credit: rando bird from the web, adapted for nuclear by me.*
 
 ## Friends: Nuclear and Germany
 ![Nuclear and Germany Friends meme](nuclear - germany.png "Nuclear and Germany Friends meme")
 
-*Credit: Friends meme template from public domain (?), adapted for nuclear by me.
+*Credit: Friends meme template from public domain (?), adapted for nuclear by me.*
 
