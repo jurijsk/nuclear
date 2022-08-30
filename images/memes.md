@@ -24,3 +24,11 @@ Khaby Lame suggesting that you do not need to make it more complecated then it i
 Same idea as with Khaby before but starring Will Smith
 
 *Credit: photo Will Smith, adapted for nuclear by me.
+
+
+## Nuclear bird
+## Nuclear starring Will Smith
+![Nuclear Bird](nuclear-bird.jpg "Nuclear Bird")
+![Nuclear is the Answer Bird](nclaer-answer-burd.jpg "Nuclear is the Answer Bird")
+
+*Credit: rando bird from the web, adapted for nuclear by me.
