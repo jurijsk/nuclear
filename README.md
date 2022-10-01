@@ -2,6 +2,6 @@
 Homepage for goodies for nuclear energy advocates.
 
 
-[Nucear memes](/images/memes.md)
+[Nuclear memes](/images/memes.md)
 
 more stuff with time
