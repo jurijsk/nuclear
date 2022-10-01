@@ -33,7 +33,7 @@ Same idea as with Khaby before but starring Will Smith
 *Credit: rando bird from the web, adapted for nuclear by me.*
 
 ## Friends: Nuclear and Germany
-![Nuclear and Germany Friends meme](nuclear - germany.png "Nuclear and Germany Friends meme")
+![Nuclear and Germany Friends meme](nuclear-germany.png "Nuclear and Germany Friends meme")
 
 *Credit: Friends meme template from public domain (?), adapted for nuclear by me.*
 
